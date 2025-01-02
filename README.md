@@ -1,16 +1,24 @@
 # flutter_demo
 
-A new Flutter test project.
+A Flutter test project. Example of filtering and sorting
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Start Run Project
+ *Prerequisite: Flutter SDK*
+```bash
+sdks:
+  dart: ">=3.5.4 <4.0.0"
+  flutter: ">=3.24.0"
+```
+Clone Project
+```bash
+  git clone https://github.com/Moyout/flutter_test_demo.git
+```
+Get dependency packages
+```bash
+  cd flutter_test_demo
+  flutter pub get 
+```
+Run
+```bash
+  flutter run
+```
